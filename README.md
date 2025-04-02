@@ -169,3 +169,63 @@
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Física i Química 2n d'ESO</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Física i Química 2n d'ESO</h1>
+        <nav>
+            <ul>
+                <li><a href="temes/tema1.html">Temes</a></li>
+                <li><a href="activitats/activitat1.html">Activitats</a></li>
+                <li><a href="videos/video1.html">Vídeos</a></li>
+                <li><a href="simuladors/simulador1.html">Simuladors</a></li>
+                <li><a href="esquemes/esquema1.html">Esquemes</a></li>
+                <li><a href="practiques/practica1.html">Pràctiques</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Benvingut/da a la pàgina de Física i Química de 2n d'ESO</h2>
+            <p>Aquí trobaràs tot el material necessari per al curs: temes, activitats, vídeos, simuladors, esquemes i prà
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+      ```sh
+   git push origin main
