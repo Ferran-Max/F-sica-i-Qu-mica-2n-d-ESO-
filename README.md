@@ -1,1 +1,1 @@
-# F-sica-i-Qu-mica-2n-d-ESO-
+# Física-i-Química-2n ESO-
